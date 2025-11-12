@@ -37,24 +37,24 @@ pip3 install numpy
 
 ### Basic Execution
 ```bash
-python truss_analysis.py
+python Miniproject_Tan.py
 ```
 
 ### Save Output to File
 ```bash
-python truss_analysis.py > results.txt
+python Miniproject_Tan.py > results.txt
 ```
 
 ### Using Python 3 Explicitly
 ```bash
-python3 truss_analysis.py
+python3 Miniproject_Tan.py
 ```
 
 ## File Structure
 ```
 TanNathan_TrussProject/
 │
-├── truss_analysis.py          # Main analysis code
+├── Miniproject_Tan.py         # Main analysis code
 ├── memo.pdf                    # Engineering memo (2 pages)
 └── README.md                   # This file
 ```
@@ -223,3 +223,4 @@ For questions about this implementation:
 
 **Last Updated:** November 12, 2025  
 **Version:** 1.0
+```
